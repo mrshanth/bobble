@@ -5,7 +5,7 @@ In the given README file, sample output given for the first question had letter 
 + ache
 + chafed
 
-###Assumption
+###Assumptions
 I concluded that, this might be a typo and proceeded with the following assumptions:
 
 1. Output words should not have letters, which were not part of the input string
@@ -28,8 +28,3 @@ Note:
 If assumption 2 is wrong, I have prepared a solution for that scenario as well and I can share it if required.
 
 Thanks for the opportunity
-
-. 
-
-
-

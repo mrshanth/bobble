@@ -1,7 +1,7 @@
 # scrabbler
 
 ###Clarification
-In the given README file, sample output given for the first question had letter "h", even though the input, "abcdefg" did not have it:
+In the given README file, sample output given for the first question had letter ```h```  even though the input ```abcdefg``` did not have it:
 + ache
 + chafed
 
@@ -10,7 +10,7 @@ I concluded that, this might be a typo and proceeded with the following assumpti
 
 1. Output words should not have letters, which were not part of the input string
 2. Output words should not have a letter more than the number of times specified in the input string. For example:
-   Input "abcdef" cannot have "bee" as one of the output
+   Input ```abcdef``` cannot have ```bee``` as one of the output
 
 ###Documents
 The following files are part of the solution. 

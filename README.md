@@ -25,7 +25,7 @@ The following files are part of the solution.
 3. ```unit_test_scrabbler.py``` can be run from the command line as: ``` python3 unit_test_scrabbler.py```
 
 Note:
-If assumption 2 is wrong, I have prepared for a solution for that scenario as well and I can share it if required.
+If assumption 2 is wrong, I have prepared a solution for that scenario as well and I can share it if required.
 
 Thanks for the opportunity
 

@@ -20,9 +20,9 @@ The following files are part of the solution.
 + unit_test_scrabbler.py
 
 ###How to
-1. Please use ```scrabbler.py``` to get the outputs as described in the problem statement README file.  
+1. Please run ```scrabbler.py``` from ```src``` folder, to get the outputs as described in the problem statement README file.
 2. ```scrabbler_for_test.py``` was created, so that the functions can return values to do unit testing. In ```scrabbler.py```, few functions print the output directly instead of storing.
-3. ```unit_test_scrabbler.py``` can be run from the command line as: ``` python3 unit_test_scrabbler.py```
+3. ```unit_test_scrabbler.py``` can be run from ```src``` folder  as: ```python3 unit_test_scrabbler.py```
 
 Note:
 If assumption 2 is wrong, I have prepared a solution for that scenario as well and I can share it if required.

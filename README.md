@@ -1,7 +1,7 @@
 # scrabbler
 
 ###Clarification
-In the given README file, sample output given for the first question had letter ```h```  even though the input ```abcdefg``` did not have it:
+In the given README file, sample output given for the first question had letter ```h``` ,  even though the input, ```abcdefg``` did not have it:
 + ache
 + chafed
 
